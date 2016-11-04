@@ -2,8 +2,8 @@
 
 int main(){
 	que que;
-	int Size=10;
-	createQue(&que,Size);
+	int size=10;
+	createQue(&que,size);
 	insert(&que,10);
 	insert(&que,11);
 	insert(&que,12);
